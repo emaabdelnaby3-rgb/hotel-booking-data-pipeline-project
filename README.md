@@ -29,6 +29,8 @@ The final layer contains aggregated analytical data that can be used for reporti
 ---
 
 Project Structure
+
+
 hotel-booking-data-pipeline-project
 │
 ├── data
