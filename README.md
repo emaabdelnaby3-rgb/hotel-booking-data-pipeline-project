@@ -31,7 +31,7 @@ The final layer contains aggregated analytical data that can be used for reporti
 
 ## Project Structure
 
-![Project Structure](Screenshot 2026-03-14 103319.png)
+![Project Structure](project_structure.png)
 
 ---
 Pipeline Workflow
