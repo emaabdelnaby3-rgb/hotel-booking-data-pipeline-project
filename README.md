@@ -28,30 +28,10 @@ The final layer contains aggregated analytical data that can be used for reporti
 
 ---
 
-Project Structure
 
 
-hotel-booking-data-pipeline-project
-│
-├── data
-│ ├── hotel_bookings.csv
-│ ├── bronze_hotel_bookings.csv
-│ ├── silver_hotel_bookings.csv
-│ ├── gold_avg_price_per_month.csv
-│ ├── gold_bookings_per_country.csv
-│ └── gold_hotel_distribution.csv
-│
-├── data_pipeline
-│ ├── ingest.py
-│ ├── transform.py
-│ └── explore.ipynb
-│
-├── analytics
-│ ├── metrics.py
-│ └── explaination.ipynb
-│
-└── main.py
 
+!Project Structure]("Screenshot 2026-03-14 103319.png")
 
 
 ---
