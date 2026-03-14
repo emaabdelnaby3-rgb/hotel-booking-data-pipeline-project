@@ -5,7 +5,8 @@ This project implements a complete Data Engineering pipeline to process and anal
 The main objective of this project is to build an end-to-end data pipeline starting from raw data and ending with analytical insights.
 
 The pipeline follows the Medallion Architecture:
-![ Medallion Architecture](Data_pipeline_flow_Medallion_Architecture.png)
+
+![ Medallion Architecture](building-data-pipelines-with-delta-lake-120823.png)
 
 Raw Data → Bronze Layer → Silver Layer → Gold Layer
 
